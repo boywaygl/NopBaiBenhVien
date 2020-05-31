@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\BenhVien\BenhVien\bin\Debug\netstandard2.0\BenhVien.deps.json
+C:\Users\DELL\Desktop\BenhVien\BenhVien\bin\Debug\netstandard2.0\BenhVien.dll
+C:\Users\DELL\Desktop\BenhVien\BenhVien\obj\Debug\netstandard2.0\BenhVien.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\BenhVien\BenhVien\obj\Debug\netstandard2.0\BenhVien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BenhVien\BenhVien\obj\Debug\netstandard2.0\BenhVien.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\BenhVien\BenhVien\obj\Debug\netstandard2.0\BenhVien.AssemblyInfo.cs
+C:\Users\DELL\Desktop\BenhVien\BenhVien\bin\Debug\netstandard2.0\BenhVien.pdb
+C:\Users\DELL\Desktop\BenhVien\BenhVien\obj\Debug\netstandard2.0\BenhVien.dll
+C:\Users\DELL\Desktop\BenhVien\BenhVien\obj\Debug\netstandard2.0\BenhVien.pdb
